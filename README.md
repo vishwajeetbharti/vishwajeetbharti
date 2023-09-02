@@ -6,10 +6,10 @@
 #### A passionate Flutter developer from India
 Flutter Developer
 
-Skills: Flutter
+Skills: Flutter,Python(Data Science,Machine Learning),Firebase,Api Interagtion,Sql, MySql,Dart,Problem Solving,(C , C++, Java (basic))
 
-- 🔭 I’m currently working on I'm a student 
-- 🌱 I’m currently learning Flutter 
+- 🔭 Currently enthusiasm of Artificial Intelligence
+- 🌱 I’m currently learning Machine Learning
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vishwajeetbharti)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishwajeet-bharti-11923516a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vishwajeetbharti2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@askvishwajeet)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.sololearn.com/profile/20120063)  
